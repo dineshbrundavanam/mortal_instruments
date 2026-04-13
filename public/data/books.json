@@ -1,0 +1,1154 @@
+{
+  "books": [
+    {
+      "id": "city-of-bones",
+      "title": "City of Bones",
+      "bookNumber": 1,
+      "year": "2007",
+      "tagline": "Every legend has a beginning.",
+      "color": "#c9a84c",
+      "coverImage": "/images/epub/00006.jpeg",
+      "mapImage": "/images/epub/00008.jpeg",
+      "chapters": [
+        {
+          "id": "chapter-1",
+          "title": "Pandemonium",
+          "number": 1,
+          "part": "Part One: Dark Descent",
+          "file": "data/chapters/city-of-bones/chapter_01.html",
+          "readingTime": 19
+        },
+        {
+          "id": "chapter-2",
+          "title": "Secrets and Lies",
+          "number": 2,
+          "part": "Part One: Dark Descent",
+          "file": "data/chapters/city-of-bones/chapter_02.html",
+          "readingTime": 19
+        },
+        {
+          "id": "chapter-3",
+          "title": "Shadowhunter",
+          "number": 3,
+          "part": "Part One: Dark Descent",
+          "file": "data/chapters/city-of-bones/chapter_03.html",
+          "readingTime": 11
+        },
+        {
+          "id": "chapter-4",
+          "title": "Ravener",
+          "number": 4,
+          "part": "Part One: Dark Descent",
+          "file": "data/chapters/city-of-bones/chapter_04.html",
+          "readingTime": 10
+        },
+        {
+          "id": "chapter-5",
+          "title": "Clave and Covenant",
+          "number": 5,
+          "part": "Part One: Dark Descent",
+          "file": "data/chapters/city-of-bones/chapter_05.html",
+          "readingTime": 27
+        },
+        {
+          "id": "chapter-6",
+          "title": "Forsaken",
+          "number": 6,
+          "part": "Part One: Dark Descent",
+          "file": "data/chapters/city-of-bones/chapter_06.html",
+          "readingTime": 18
+        },
+        {
+          "id": "chapter-7",
+          "title": "The Five-Dimensional Door",
+          "number": 7,
+          "part": "Part One: Dark Descent",
+          "file": "data/chapters/city-of-bones/chapter_07.html",
+          "readingTime": 11
+        },
+        {
+          "id": "chapter-8",
+          "title": "Weapon of Choice",
+          "number": 8,
+          "part": "Part One: Dark Descent",
+          "file": "data/chapters/city-of-bones/chapter_08.html",
+          "readingTime": 22
+        },
+        {
+          "id": "chapter-9",
+          "title": "The Circle and the Brotherhood",
+          "number": 9,
+          "part": "Part One: Dark Descent",
+          "file": "data/chapters/city-of-bones/chapter_09.html",
+          "readingTime": 16
+        },
+        {
+          "id": "chapter-10",
+          "title": "City of Bones",
+          "number": 10,
+          "part": "Part Two: Easy is the Descent",
+          "file": "data/chapters/city-of-bones/chapter_10.html",
+          "readingTime": 45
+        },
+        {
+          "id": "chapter-11",
+          "title": "Magnus Bane",
+          "number": 11,
+          "part": "Part Two: Easy is the Descent",
+          "file": "data/chapters/city-of-bones/chapter_11.html",
+          "readingTime": 29
+        },
+        {
+          "id": "chapter-12",
+          "title": "Dead Man's Party",
+          "number": 12,
+          "part": "Part Two: Easy is the Descent",
+          "file": "data/chapters/city-of-bones/chapter_12.html",
+          "readingTime": 12
+        },
+        {
+          "id": "chapter-13",
+          "title": "The Memory of Whiteness",
+          "number": 13,
+          "part": "Part Two: Easy is the Descent",
+          "file": "data/chapters/city-of-bones/chapter_13.html",
+          "readingTime": 27
+        },
+        {
+          "id": "chapter-14",
+          "title": "The Hotel Dumort",
+          "number": 14,
+          "part": "Part Two: Easy is the Descent",
+          "file": "data/chapters/city-of-bones/chapter_14.html",
+          "readingTime": 32
+        },
+        {
+          "id": "chapter-15",
+          "title": "High and Dry",
+          "number": 15,
+          "part": "Part Two: Easy is the Descent",
+          "file": "data/chapters/city-of-bones/chapter_15.html",
+          "readingTime": 15
+        },
+        {
+          "id": "chapter-16",
+          "title": "Falling Angels",
+          "number": 16,
+          "part": "Part Two: Easy is the Descent",
+          "file": "data/chapters/city-of-bones/chapter_16.html",
+          "readingTime": 14
+        },
+        {
+          "id": "chapter-17",
+          "title": "The Midnight Flower",
+          "number": 17,
+          "part": "Part Two: Easy is the Descent",
+          "file": "data/chapters/city-of-bones/chapter_17.html",
+          "readingTime": 16
+        },
+        {
+          "id": "chapter-18",
+          "title": "The Mortal Cup",
+          "number": 18,
+          "part": "Part Two: Easy is the Descent",
+          "file": "data/chapters/city-of-bones/chapter_18.html",
+          "readingTime": 28
+        },
+        {
+          "id": "chapter-19",
+          "title": "Abbadon",
+          "number": 19,
+          "part": "Part Two: Easy is the Descent",
+          "file": "data/chapters/city-of-bones/chapter_19.html",
+          "readingTime": 25
+        },
+        {
+          "id": "chapter-20",
+          "title": "In Rats' Alley",
+          "number": 20,
+          "part": "Part Two: Easy is the Descent",
+          "file": "data/chapters/city-of-bones/chapter_20.html",
+          "readingTime": 16
+        },
+        {
+          "id": "chapter-21",
+          "title": "The Werewolf's Tale",
+          "number": 21,
+          "part": "Part Three: The Descent Beckons",
+          "file": "data/chapters/city-of-bones/chapter_21.html",
+          "readingTime": 17
+        },
+        {
+          "id": "chapter-22",
+          "title": "Renwick's Ruin",
+          "number": 22,
+          "part": "Part Three: The Descent Beckons",
+          "file": "data/chapters/city-of-bones/chapter_22.html",
+          "readingTime": 35
+        },
+        {
+          "id": "chapter-23",
+          "title": "Valentine",
+          "number": 23,
+          "part": "Part Three: The Descent Beckons",
+          "file": "data/chapters/city-of-bones/chapter_23.html",
+          "readingTime": 37
+        },
+        {
+          "id": "the-ascent-beckons",
+          "title": "The Ascent Beckons",
+          "number": 0,
+          "part": "Epilogue",
+          "file": "data/chapters/city-of-bones/epilogue.html",
+          "readingTime": 20
+        }
+      ],
+      "totalChapters": 24
+    },
+    {
+      "id": "city-of-ashes",
+      "title": "City of Ashes",
+      "bookNumber": 2,
+      "year": "2008",
+      "tagline": "Is love worth betraying everything?",
+      "color": "#e85d3a",
+      "coverImage": "/images/epub/00020.jpeg",
+      "mapImage": "/images/epub/00022.jpeg",
+      "chapters": [
+        {
+          "id": "smoke-and-diamonds",
+          "title": "Smoke and Diamonds",
+          "number": 0,
+          "part": "Prologue",
+          "file": "data/chapters/city-of-ashes/prologue.html",
+          "readingTime": 5
+        },
+        {
+          "id": "chapter-1",
+          "title": "Valentine's Arrow",
+          "number": 1,
+          "part": "Part One: A Season in Hell",
+          "file": "data/chapters/city-of-ashes/chapter_01.html",
+          "readingTime": 20
+        },
+        {
+          "id": "chapter-2",
+          "title": "The Hunter's Moon",
+          "number": 2,
+          "part": "Part One: A Season in Hell",
+          "file": "data/chapters/city-of-ashes/chapter_02.html",
+          "readingTime": 28
+        },
+        {
+          "id": "chapter-3",
+          "title": "The Inquisitor",
+          "number": 3,
+          "part": "Part One: A Season in Hell",
+          "file": "data/chapters/city-of-ashes/chapter_03.html",
+          "readingTime": 13
+        },
+        {
+          "id": "chapter-4",
+          "title": "The Cuckoo in the Nest",
+          "number": 4,
+          "part": "Part One: A Season in Hell",
+          "file": "data/chapters/city-of-ashes/chapter_04.html",
+          "readingTime": 20
+        },
+        {
+          "id": "chapter-5",
+          "title": "Sins of the Fathers",
+          "number": 5,
+          "part": "Part One: A Season in Hell",
+          "file": "data/chapters/city-of-ashes/chapter_05.html",
+          "readingTime": 24
+        },
+        {
+          "id": "chapter-6",
+          "title": "City of Ashes",
+          "number": 6,
+          "part": "Part One: A Season in Hell",
+          "file": "data/chapters/city-of-ashes/chapter_06.html",
+          "readingTime": 12
+        },
+        {
+          "id": "chapter-7",
+          "title": "The Mortal Sword",
+          "number": 7,
+          "part": "Part One: A Season in Hell",
+          "file": "data/chapters/city-of-ashes/chapter_07.html",
+          "readingTime": 10
+        },
+        {
+          "id": "chapter-8",
+          "title": "The Seelie Court",
+          "number": 8,
+          "part": "Part Two: The Gates of Hell",
+          "file": "data/chapters/city-of-ashes/chapter_08.html",
+          "readingTime": 49
+        },
+        {
+          "id": "chapter-9",
+          "title": "And Death Shall Have No Dominion",
+          "number": 9,
+          "part": "Part Two: The Gates of Hell",
+          "file": "data/chapters/city-of-ashes/chapter_09.html",
+          "readingTime": 22
+        },
+        {
+          "id": "chapter-10",
+          "title": "A Fine and Private Place",
+          "number": 10,
+          "part": "Part Two: The Gates of Hell",
+          "file": "data/chapters/city-of-ashes/chapter_10.html",
+          "readingTime": 11
+        },
+        {
+          "id": "chapter-11",
+          "title": "Smoke and Steel",
+          "number": 11,
+          "part": "Part Two: The Gates of Hell",
+          "file": "data/chapters/city-of-ashes/chapter_11.html",
+          "readingTime": 17
+        },
+        {
+          "id": "chapter-12",
+          "title": "The Hostility of Dreams",
+          "number": 12,
+          "part": "Part Two: The Gates of Hell",
+          "file": "data/chapters/city-of-ashes/chapter_12.html",
+          "readingTime": 27
+        },
+        {
+          "id": "chapter-13",
+          "title": "A Host of Rebel Angels",
+          "number": 13,
+          "part": "Part Two: The Gates of Hell",
+          "file": "data/chapters/city-of-ashes/chapter_13.html",
+          "readingTime": 24
+        },
+        {
+          "id": "chapter-14",
+          "title": "Fearless",
+          "number": 14,
+          "part": "Part Three: Day of Wrath",
+          "file": "data/chapters/city-of-ashes/chapter_14.html",
+          "readingTime": 25
+        },
+        {
+          "id": "chapter-15",
+          "title": "The Serpent's Tooth",
+          "number": 15,
+          "part": "Part Three: Day of Wrath",
+          "file": "data/chapters/city-of-ashes/chapter_15.html",
+          "readingTime": 29
+        },
+        {
+          "id": "chapter-16",
+          "title": "A Stone of the Heart",
+          "number": 16,
+          "part": "Part Three: Day of Wrath",
+          "file": "data/chapters/city-of-ashes/chapter_16.html",
+          "readingTime": 24
+        },
+        {
+          "id": "chapter-17",
+          "title": "East of Eden",
+          "number": 17,
+          "part": "Part Three: Day of Wrath",
+          "file": "data/chapters/city-of-ashes/chapter_17.html",
+          "readingTime": 30
+        },
+        {
+          "id": "chapter-18",
+          "title": "Darkness Visible",
+          "number": 18,
+          "part": "Part Three: Day of Wrath",
+          "file": "data/chapters/city-of-ashes/chapter_18.html",
+          "readingTime": 31
+        },
+        {
+          "id": "chapter-19",
+          "title": "Dies Irae",
+          "number": 19,
+          "part": "Part Three: Day of Wrath",
+          "file": "data/chapters/city-of-ashes/chapter_19.html",
+          "readingTime": 40
+        },
+        {
+          "id": "a-door-into-the-dark",
+          "title": "A Door into the Dark",
+          "number": 0,
+          "part": "Epilogue",
+          "file": "data/chapters/city-of-ashes/epilogue.html",
+          "readingTime": 21
+        }
+      ],
+      "totalChapters": 21
+    },
+    {
+      "id": "city-of-glass",
+      "title": "City of Glass",
+      "bookNumber": 3,
+      "year": "2009",
+      "tagline": "Love is a mortal sin and the secrets of the past prove deadly.",
+      "color": "#4a90d9",
+      "coverImage": "/images/epub/00037.jpeg",
+      "mapImage": "/images/epub/00039.jpeg",
+      "chapters": [
+        {
+          "id": "chapter-1",
+          "title": "The Portal",
+          "number": 1,
+          "part": "Part One: Sparks Fly Upward",
+          "file": "data/chapters/city-of-glass/chapter_01.html",
+          "readingTime": 1
+        },
+        {
+          "id": "chapter-2",
+          "title": "The Demon Towers of Alicante",
+          "number": 2,
+          "part": "Part One: Sparks Fly Upward",
+          "file": "data/chapters/city-of-glass/chapter_02.html",
+          "readingTime": 1
+        },
+        {
+          "id": "chapter-3",
+          "title": "Amatis",
+          "number": 3,
+          "part": "Part One: Sparks Fly Upward",
+          "file": "data/chapters/city-of-glass/chapter_03.html",
+          "readingTime": 23
+        },
+        {
+          "id": "chapter-4",
+          "title": "Daylighter",
+          "number": 4,
+          "part": "Part One: Sparks Fly Upward",
+          "file": "data/chapters/city-of-glass/chapter_04.html",
+          "readingTime": 35
+        },
+        {
+          "id": "chapter-5",
+          "title": "A Problem of Memory",
+          "number": 5,
+          "part": "Part One: Sparks Fly Upward",
+          "file": "data/chapters/city-of-glass/chapter_05.html",
+          "readingTime": 20
+        },
+        {
+          "id": "chapter-6",
+          "title": "Bad Blood",
+          "number": 6,
+          "part": "Part One: Sparks Fly Upward",
+          "file": "data/chapters/city-of-glass/chapter_06.html",
+          "readingTime": 22
+        },
+        {
+          "id": "chapter-7",
+          "title": "Where Angels Fear to Tread",
+          "number": 7,
+          "part": "Part One: Sparks Fly Upward",
+          "file": "data/chapters/city-of-glass/chapter_07.html",
+          "readingTime": 29
+        },
+        {
+          "id": "chapter-8",
+          "title": "One of the Living",
+          "number": 8,
+          "part": "Part Two: Stars Shine Darkly",
+          "file": "data/chapters/city-of-glass/chapter_08.html",
+          "readingTime": 31
+        },
+        {
+          "id": "chapter-9",
+          "title": "This Guilty Blood",
+          "number": 9,
+          "part": "Part Two: Stars Shine Darkly",
+          "file": "data/chapters/city-of-glass/chapter_09.html",
+          "readingTime": 22
+        },
+        {
+          "id": "chapter-10",
+          "title": "Fire and Sword",
+          "number": 10,
+          "part": "Part Two: Stars Shine Darkly",
+          "file": "data/chapters/city-of-glass/chapter_10.html",
+          "readingTime": 24
+        },
+        {
+          "id": "chapter-11",
+          "title": "All the Host of Hell",
+          "number": 11,
+          "part": "Part Two: Stars Shine Darkly",
+          "file": "data/chapters/city-of-glass/chapter_11.html",
+          "readingTime": 1
+        },
+        {
+          "id": "chapter-12",
+          "title": "De Profundis",
+          "number": 12,
+          "part": "Part Two: Stars Shine Darkly",
+          "file": "data/chapters/city-of-glass/chapter_12.html",
+          "readingTime": 24
+        },
+        {
+          "id": "chapter-13",
+          "title": "Where There Is Sorrow",
+          "number": 13,
+          "part": "Part Two: Stars Shine Darkly",
+          "file": "data/chapters/city-of-glass/chapter_13.html",
+          "readingTime": 25
+        },
+        {
+          "id": "chapter-14",
+          "title": "In the Dark Forest",
+          "number": 14,
+          "part": "Part Two: Stars Shine Darkly",
+          "file": "data/chapters/city-of-glass/chapter_14.html",
+          "readingTime": 31
+        },
+        {
+          "id": "chapter-15",
+          "title": "Things Fall Apart",
+          "number": 15,
+          "part": "Part Two: Stars Shine Darkly",
+          "file": "data/chapters/city-of-glass/chapter_15.html",
+          "readingTime": 25
+        },
+        {
+          "id": "chapter-16",
+          "title": "Articles of Faith",
+          "number": 16,
+          "part": "Part Three: The Way to Heaven",
+          "file": "data/chapters/city-of-glass/chapter_16.html",
+          "readingTime": 28
+        },
+        {
+          "id": "chapter-17",
+          "title": "The Shadowhunter's Tale",
+          "number": 17,
+          "part": "Part Three: The Way to Heaven",
+          "file": "data/chapters/city-of-glass/chapter_17.html",
+          "readingTime": 34
+        },
+        {
+          "id": "chapter-18",
+          "title": "Hail and Farewell",
+          "number": 18,
+          "part": "Part Three: The Way to Heaven",
+          "file": "data/chapters/city-of-glass/chapter_18.html",
+          "readingTime": 38
+        },
+        {
+          "id": "chapter-19",
+          "title": "Peniel",
+          "number": 19,
+          "part": "Part Three: The Way to Heaven",
+          "file": "data/chapters/city-of-glass/chapter_19.html",
+          "readingTime": 40
+        },
+        {
+          "id": "chapter-20",
+          "title": "Weighed in the Balance",
+          "number": 20,
+          "part": "Part Three: The Way to Heaven",
+          "file": "data/chapters/city-of-glass/chapter_20.html",
+          "readingTime": 28
+        },
+        {
+          "id": "across-the-sky-in-stars",
+          "title": "Across the Sky in Stars",
+          "number": 0,
+          "part": "Epilogue",
+          "file": "data/chapters/city-of-glass/epilogue.html",
+          "readingTime": 1
+        }
+      ],
+      "totalChapters": 21
+    },
+    {
+      "id": "city-of-fallen-angels",
+      "title": "City of Fallen Angels",
+      "bookNumber": 4,
+      "year": "2011",
+      "tagline": "Love. Blood. Betrayal. Revenge.",
+      "color": "#9b59b6",
+      "coverImage": "/images/epub/00051.jpeg",
+      "mapImage": "/images/epub/00053.jpeg",
+      "chapters": [
+        {
+          "id": "chapter-1",
+          "title": "The Master",
+          "number": 1,
+          "part": "Part One: Exterminating Angels",
+          "file": "data/chapters/city-of-fallen-angels/chapter_01.html",
+          "readingTime": 34
+        },
+        {
+          "id": "chapter-2",
+          "title": "Falling",
+          "number": 2,
+          "part": "Part One: Exterminating Angels",
+          "file": "data/chapters/city-of-fallen-angels/chapter_02.html",
+          "readingTime": 15
+        },
+        {
+          "id": "chapter-3",
+          "title": "Sevenfold",
+          "number": 3,
+          "part": "Part One: Exterminating Angels",
+          "file": "data/chapters/city-of-fallen-angels/chapter_03.html",
+          "readingTime": 23
+        },
+        {
+          "id": "chapter-4",
+          "title": "The Art of Eight Limbs",
+          "number": 4,
+          "part": "Part One: Exterminating Angels",
+          "file": "data/chapters/city-of-fallen-angels/chapter_04.html",
+          "readingTime": 27
+        },
+        {
+          "id": "chapter-5",
+          "title": "Hell Calls Hell",
+          "number": 5,
+          "part": "Part One: Exterminating Angels",
+          "file": "data/chapters/city-of-fallen-angels/chapter_05.html",
+          "readingTime": 24
+        },
+        {
+          "id": "chapter-6",
+          "title": "Wake The Dead",
+          "number": 6,
+          "part": "Part One: Exterminating Angels",
+          "file": "data/chapters/city-of-fallen-angels/chapter_06.html",
+          "readingTime": 29
+        },
+        {
+          "id": "chapter-7",
+          "title": "Praetor Lupus",
+          "number": 7,
+          "part": "Part One: Exterminating Angels",
+          "file": "data/chapters/city-of-fallen-angels/chapter_07.html",
+          "readingTime": 25
+        },
+        {
+          "id": "chapter-8",
+          "title": "Walk in Darkness",
+          "number": 8,
+          "part": "Part One: Exterminating Angels",
+          "file": "data/chapters/city-of-fallen-angels/chapter_08.html",
+          "readingTime": 24
+        },
+        {
+          "id": "chapter-9",
+          "title": "From Fire Unto Fire",
+          "number": 9,
+          "part": "Part One: Exterminating Angels",
+          "file": "data/chapters/city-of-fallen-angels/chapter_09.html",
+          "readingTime": 15
+        },
+        {
+          "id": "chapter-10",
+          "title": "232 Riverside Drive",
+          "number": 10,
+          "part": "Part Two: For Every Life",
+          "file": "data/chapters/city-of-fallen-angels/chapter_10.html",
+          "readingTime": 22
+        },
+        {
+          "id": "chapter-11",
+          "title": "Our Kind",
+          "number": 11,
+          "part": "Part Two: For Every Life",
+          "file": "data/chapters/city-of-fallen-angels/chapter_11.html",
+          "readingTime": 16
+        },
+        {
+          "id": "chapter-12",
+          "title": "Sanctuary",
+          "number": 12,
+          "part": "Part Two: For Every Life",
+          "file": "data/chapters/city-of-fallen-angels/chapter_12.html",
+          "readingTime": 21
+        },
+        {
+          "id": "chapter-13",
+          "title": "Girl Found Dead",
+          "number": 13,
+          "part": "Part Two: For Every Life",
+          "file": "data/chapters/city-of-fallen-angels/chapter_13.html",
+          "readingTime": 27
+        },
+        {
+          "id": "chapter-14",
+          "title": "What Dreams May Come",
+          "number": 14,
+          "part": "Part Two: For Every Life",
+          "file": "data/chapters/city-of-fallen-angels/chapter_14.html",
+          "readingTime": 19
+        },
+        {
+          "id": "chapter-15",
+          "title": "Beati Bellicosi",
+          "number": 15,
+          "part": "Part Two: For Every Life",
+          "file": "data/chapters/city-of-fallen-angels/chapter_15.html",
+          "readingTime": 25
+        },
+        {
+          "id": "chapter-16",
+          "title": "New York City Angels",
+          "number": 16,
+          "part": "Part Two: For Every Life",
+          "file": "data/chapters/city-of-fallen-angels/chapter_16.html",
+          "readingTime": 23
+        },
+        {
+          "id": "chapter-17",
+          "title": "And Cain Rose Up",
+          "number": 17,
+          "part": "Part Two: For Every Life",
+          "file": "data/chapters/city-of-fallen-angels/chapter_17.html",
+          "readingTime": 29
+        },
+        {
+          "id": "chapter-18",
+          "title": "Scars of Fire",
+          "number": 18,
+          "part": "Part Two: For Every Life",
+          "file": "data/chapters/city-of-fallen-angels/chapter_18.html",
+          "readingTime": 35
+        },
+        {
+          "id": "chapter-19",
+          "title": "Hell is Satisfied",
+          "number": 19,
+          "part": "Part Two: For Every Life",
+          "file": "data/chapters/city-of-fallen-angels/chapter_19.html",
+          "readingTime": 43
+        }
+      ],
+      "totalChapters": 19
+    },
+    {
+      "id": "city-of-lost-souls",
+      "title": "City of Lost Souls",
+      "bookNumber": 5,
+      "year": "2012",
+      "tagline": "What price is too high to pay, even for love?",
+      "color": "#27ae60",
+      "coverImage": "/images/epub/00059.jpeg",
+      "mapImage": "/images/epub/00061.jpeg",
+      "chapters": [
+        {
+          "id": "prologue",
+          "title": "Prologue",
+          "number": 0,
+          "part": "Prologue",
+          "file": "data/chapters/city-of-lost-souls/prologue.html",
+          "readingTime": 4
+        },
+        {
+          "id": "chapter-1",
+          "title": "The Last Council",
+          "number": 1,
+          "part": "Part One: No Evil Angel",
+          "file": "data/chapters/city-of-lost-souls/chapter_01.html",
+          "readingTime": 24
+        },
+        {
+          "id": "chapter-2",
+          "title": "Thorns",
+          "number": 2,
+          "part": "Part One: No Evil Angel",
+          "file": "data/chapters/city-of-lost-souls/chapter_02.html",
+          "readingTime": 24
+        },
+        {
+          "id": "chapter-3",
+          "title": "Bad Angels",
+          "number": 3,
+          "part": "Part One: No Evil Angel",
+          "file": "data/chapters/city-of-lost-souls/chapter_03.html",
+          "readingTime": 19
+        },
+        {
+          "id": "chapter-4",
+          "title": "And Immortality",
+          "number": 4,
+          "part": "Part One: No Evil Angel",
+          "file": "data/chapters/city-of-lost-souls/chapter_04.html",
+          "readingTime": 22
+        },
+        {
+          "id": "chapter-5",
+          "title": "Valentine's Son",
+          "number": 5,
+          "part": "Part One: No Evil Angel",
+          "file": "data/chapters/city-of-lost-souls/chapter_05.html",
+          "readingTime": 20
+        },
+        {
+          "id": "chapter-6",
+          "title": "No Weapon in this World",
+          "number": 6,
+          "part": "Part One: No Evil Angel",
+          "file": "data/chapters/city-of-lost-souls/chapter_06.html",
+          "readingTime": 34
+        },
+        {
+          "id": "chapter-7",
+          "title": "A Sea Change",
+          "number": 7,
+          "part": "Part One: No Evil Angel",
+          "file": "data/chapters/city-of-lost-souls/chapter_07.html",
+          "readingTime": 27
+        },
+        {
+          "id": "chapter-8",
+          "title": "Fire Tests Gold",
+          "number": 8,
+          "part": "Part Two: Certain Dark Things",
+          "file": "data/chapters/city-of-lost-souls/chapter_08.html",
+          "readingTime": 26
+        },
+        {
+          "id": "chapter-9",
+          "title": "The Iron Sisters",
+          "number": 9,
+          "part": "Part Two: Certain Dark Things",
+          "file": "data/chapters/city-of-lost-souls/chapter_09.html",
+          "readingTime": 26
+        },
+        {
+          "id": "chapter-10",
+          "title": "The Wild Hunt",
+          "number": 10,
+          "part": "Part Two: Certain Dark Things",
+          "file": "data/chapters/city-of-lost-souls/chapter_10.html",
+          "readingTime": 25
+        },
+        {
+          "id": "chapter-11",
+          "title": "Ascribe All Sin",
+          "number": 11,
+          "part": "Part Two: Certain Dark Things",
+          "file": "data/chapters/city-of-lost-souls/chapter_11.html",
+          "readingTime": 29
+        },
+        {
+          "id": "chapter-12",
+          "title": "The Stuff of Heaven",
+          "number": 12,
+          "part": "Part Two: Certain Dark Things",
+          "file": "data/chapters/city-of-lost-souls/chapter_12.html",
+          "readingTime": 34
+        },
+        {
+          "id": "chapter-13",
+          "title": "The Bone Chandelier",
+          "number": 13,
+          "part": "Part Two: Certain Dark Things",
+          "file": "data/chapters/city-of-lost-souls/chapter_13.html",
+          "readingTime": 38
+        },
+        {
+          "id": "chapter-14",
+          "title": "As Ashes",
+          "number": 14,
+          "part": "Part Two: Certain Dark Things",
+          "file": "data/chapters/city-of-lost-souls/chapter_14.html",
+          "readingTime": 20
+        },
+        {
+          "id": "chapter-15",
+          "title": "Magdalena",
+          "number": 15,
+          "part": "Part Two: Certain Dark Things",
+          "file": "data/chapters/city-of-lost-souls/chapter_15.html",
+          "readingTime": 27
+        },
+        {
+          "id": "chapter-16",
+          "title": "Brothers and Sisters",
+          "number": 16,
+          "part": "Part Two: Certain Dark Things",
+          "file": "data/chapters/city-of-lost-souls/chapter_16.html",
+          "readingTime": 26
+        },
+        {
+          "id": "chapter-17",
+          "title": "Valediction",
+          "number": 17,
+          "part": "Part Two: Certain Dark Things",
+          "file": "data/chapters/city-of-lost-souls/chapter_17.html",
+          "readingTime": 25
+        },
+        {
+          "id": "chapter-18",
+          "title": "Raziel",
+          "number": 18,
+          "part": "Part Three: All Is Changed",
+          "file": "data/chapters/city-of-lost-souls/chapter_18.html",
+          "readingTime": 22
+        },
+        {
+          "id": "chapter-19",
+          "title": "Love and Blood",
+          "number": 19,
+          "part": "Part Three: All Is Changed",
+          "file": "data/chapters/city-of-lost-souls/chapter_19.html",
+          "readingTime": 22
+        },
+        {
+          "id": "chapter-20",
+          "title": "A Door into the Dark",
+          "number": 20,
+          "part": "Part Three: All Is Changed",
+          "file": "data/chapters/city-of-lost-souls/chapter_20.html",
+          "readingTime": 24
+        },
+        {
+          "id": "chapter-21",
+          "title": "Raising Hell",
+          "number": 21,
+          "part": "Part Three: All Is Changed",
+          "file": "data/chapters/city-of-lost-souls/chapter_21.html",
+          "readingTime": 28
+        },
+        {
+          "id": "epilogue",
+          "title": "Epilogue",
+          "number": 0,
+          "part": "Epilogue",
+          "file": "data/chapters/city-of-lost-souls/epilogue.html",
+          "readingTime": 43
+        }
+      ],
+      "totalChapters": 23
+    },
+    {
+      "id": "city-of-heavenly-fire",
+      "title": "City of Heavenly Fire",
+      "bookNumber": 6,
+      "year": "2014",
+      "tagline": "Darkness has descended on the Shadowhunter world.",
+      "color": "#e74c3c",
+      "coverImage": "/images/epub/00074.jpeg",
+      "mapImage": "/images/epub/00076.jpeg",
+      "chapters": [
+        {
+          "id": "fall-like-rain",
+          "title": "Fall like Rain",
+          "number": 0,
+          "part": "Prologue",
+          "file": "data/chapters/city-of-heavenly-fire/prologue.html",
+          "readingTime": 23
+        },
+        {
+          "id": "chapter-1",
+          "title": "The Portion of Their Cup",
+          "number": 1,
+          "part": "Part One: Bring Forth a Fire",
+          "file": "data/chapters/city-of-heavenly-fire/chapter_01.html",
+          "readingTime": 31
+        },
+        {
+          "id": "chapter-2",
+          "title": "Stand or Fall",
+          "number": 2,
+          "part": "Part One: Bring Forth a Fire",
+          "file": "data/chapters/city-of-heavenly-fire/chapter_02.html",
+          "readingTime": 18
+        },
+        {
+          "id": "chapter-3",
+          "title": "Birds to the Mountain",
+          "number": 3,
+          "part": "Part One: Bring Forth a Fire",
+          "file": "data/chapters/city-of-heavenly-fire/chapter_03.html",
+          "readingTime": 30
+        },
+        {
+          "id": "chapter-4",
+          "title": "Darker than Gold",
+          "number": 4,
+          "part": "Part One: Bring Forth a Fire",
+          "file": "data/chapters/city-of-heavenly-fire/chapter_04.html",
+          "readingTime": 25
+        },
+        {
+          "id": "chapter-5",
+          "title": "Measure of Revenge",
+          "number": 5,
+          "part": "Part One: Bring Forth a Fire",
+          "file": "data/chapters/city-of-heavenly-fire/chapter_05.html",
+          "readingTime": 20
+        },
+        {
+          "id": "chapter-6",
+          "title": "Brother Lead and Sister Steel",
+          "number": 6,
+          "part": "Part One: Bring Forth a Fire",
+          "file": "data/chapters/city-of-heavenly-fire/chapter_06.html",
+          "readingTime": 26
+        },
+        {
+          "id": "chapter-7",
+          "title": "Clash by Night",
+          "number": 7,
+          "part": "Part One: Bring Forth a Fire",
+          "file": "data/chapters/city-of-heavenly-fire/chapter_07.html",
+          "readingTime": 31
+        },
+        {
+          "id": "chapter-8",
+          "title": "Strength in What Remains",
+          "number": 8,
+          "part": "Part One: Bring Forth a Fire",
+          "file": "data/chapters/city-of-heavenly-fire/chapter_08.html",
+          "readingTime": 27
+        },
+        {
+          "id": "chapter-9",
+          "title": "The Arms You Bear",
+          "number": 9,
+          "part": "Part One: Bring Forth a Fire",
+          "file": "data/chapters/city-of-heavenly-fire/chapter_09.html",
+          "readingTime": 36
+        },
+        {
+          "id": "chapter-10",
+          "title": "These Violent Delights",
+          "number": 10,
+          "part": "Part One: Bring Forth a Fire",
+          "file": "data/chapters/city-of-heavenly-fire/chapter_10.html",
+          "readingTime": 39
+        },
+        {
+          "id": "chapter-11",
+          "title": "The Best Is Lost",
+          "number": 11,
+          "part": "Part One: Bring Forth a Fire",
+          "file": "data/chapters/city-of-heavenly-fire/chapter_11.html",
+          "readingTime": 35
+        },
+        {
+          "id": "chapter-12",
+          "title": "The Formal Nightmare",
+          "number": 12,
+          "part": "Part One: Bring Forth a Fire",
+          "file": "data/chapters/city-of-heavenly-fire/chapter_12.html",
+          "readingTime": 24
+        },
+        {
+          "id": "chapter-13",
+          "title": "Paved with Good Intentions",
+          "number": 13,
+          "part": "Part One: Bring Forth a Fire",
+          "file": "data/chapters/city-of-heavenly-fire/chapter_13.html",
+          "readingTime": 33
+        },
+        {
+          "id": "chapter-14",
+          "title": "The Sleep of Reason",
+          "number": 14,
+          "part": "Part Two: That World Inverted",
+          "file": "data/chapters/city-of-heavenly-fire/chapter_14.html",
+          "readingTime": 21
+        },
+        {
+          "id": "chapter-15",
+          "title": "Brimstone and Salt",
+          "number": 15,
+          "part": "Part Two: That World Inverted",
+          "file": "data/chapters/city-of-heavenly-fire/chapter_15.html",
+          "readingTime": 33
+        },
+        {
+          "id": "chapter-16",
+          "title": "The Terrors of the Earth",
+          "number": 16,
+          "part": "Part Two: That World Inverted",
+          "file": "data/chapters/city-of-heavenly-fire/chapter_16.html",
+          "readingTime": 31
+        },
+        {
+          "id": "chapter-17",
+          "title": "Burnt Offerings",
+          "number": 17,
+          "part": "Part Two: That World Inverted",
+          "file": "data/chapters/city-of-heavenly-fire/chapter_17.html",
+          "readingTime": 29
+        },
+        {
+          "id": "chapter-18",
+          "title": "By the Waters of Babylon",
+          "number": 18,
+          "part": "Part Two: That World Inverted",
+          "file": "data/chapters/city-of-heavenly-fire/chapter_18.html",
+          "readingTime": 26
+        },
+        {
+          "id": "chapter-19",
+          "title": "Into the Silent Land",
+          "number": 19,
+          "part": "Part Two: That World Inverted",
+          "file": "data/chapters/city-of-heavenly-fire/chapter_19.html",
+          "readingTime": 20
+        },
+        {
+          "id": "chapter-20",
+          "title": "The Serpents of the Dust",
+          "number": 20,
+          "part": "Part Two: That World Inverted",
+          "file": "data/chapters/city-of-heavenly-fire/chapter_20.html",
+          "readingTime": 23
+        },
+        {
+          "id": "chapter-21",
+          "title": "The Keys of Death and Hell",
+          "number": 21,
+          "part": "Part Two: That World Inverted",
+          "file": "data/chapters/city-of-heavenly-fire/chapter_21.html",
+          "readingTime": 30
+        },
+        {
+          "id": "chapter-22",
+          "title": "The Ashes of Our Fathers",
+          "number": 22,
+          "part": "Part Two: That World Inverted",
+          "file": "data/chapters/city-of-heavenly-fire/chapter_22.html",
+          "readingTime": 33
+        },
+        {
+          "id": "chapter-23",
+          "title": "Judas Kiss",
+          "number": 23,
+          "part": "Part Two: That World Inverted",
+          "file": "data/chapters/city-of-heavenly-fire/chapter_23.html",
+          "readingTime": 53
+        },
+        {
+          "id": "chapter-24",
+          "title": "Call It Peace",
+          "number": 24,
+          "part": "Part Two: That World Inverted",
+          "file": "data/chapters/city-of-heavenly-fire/chapter_24.html",
+          "readingTime": 49
+        },
+        {
+          "id": "the-beauty-of-a-thousand-stars",
+          "title": "The Beauty of a Thousand Stars",
+          "number": 0,
+          "part": "Epilogue",
+          "file": "data/chapters/city-of-heavenly-fire/epilogue.html",
+          "readingTime": 51
+        }
+      ],
+      "totalChapters": 26
+    }
+  ]
+}
