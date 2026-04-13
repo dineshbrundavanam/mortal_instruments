@@ -648,12 +648,12 @@ img {
 /* Reading progress bar at top */
 .reading-progress {
   position: fixed;
-  top: var(--nav-height);
+  top: 0;
   left: 0;
   right: 0;
   height: 3px;
   background: rgba(255, 255, 255, 0.05);
-  z-index: 999;
+  z-index: 1001;
 }
 
 .reading-progress-fill {

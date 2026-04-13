@@ -41,6 +41,9 @@ export async function renderReader(container, data, bookId, chapterId) {
   try {
     const res = await fetch(`/${chapter.file}`);
     chapterHtml = await res.text();
+    // Strip the leading chapter heading (h3) from EPUB content — 
+    // we already render a styled header above the content
+    chapterHtml = chapterHtml.replace(/^\s*<h[1-6][^>]*>[\s\S]*?<\/h[1-6]>\s*/, '');
   } catch (e) {
     chapterHtml = '<p>Error loading chapter content.</p>';
   }

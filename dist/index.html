@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>The Mortal Instruments — Interactive Reading Experience</title>
+  <meta name="description" content="An immersive interactive reading experience for The Mortal Instruments series by Cassandra Clare. Explore the Shadowhunter universe with maps, character profiles, and rune guides." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;800;900&family=Cinzel+Decorative:wght@400;700;900&family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet" />
+  <script type="module" crossorigin src="/assets/index-CdmAtnCj.js"></script>
+  <link rel="stylesheet" crossorigin href="/assets/index-CsSRcI0M.css">
+</head>
+<body>
+  <!-- Glamour dissolving intro overlay -->
+  <div id="glamour-overlay" class="glamour-overlay">
+    <div class="glamour-content">
+      <svg class="glamour-rune" viewBox="0 0 100 140" width="80" height="112">
+        <path d="M50 5 L50 135 M25 35 L75 35 M20 70 L80 70 M30 105 L70 105 M50 5 L25 35 M50 5 L75 35 M25 35 L20 70 M75 35 L80 70 M20 70 L30 105 M80 70 L70 105 M30 105 L50 135 M70 105 L50 135" 
+              fill="none" stroke="#c9a84c" stroke-width="2" stroke-linecap="round"/>
+      </svg>
+      <p class="glamour-text">The glamour is dissolving...</p>
+      <p class="glamour-subtext">Welcome, Shadowhunter</p>
+    </div>
+  </div>
+
+  <!-- Particle canvas for floating runes -->
+  <canvas id="rune-particles"></canvas>
+
+  <!-- Navigation -->
+  <nav id="main-nav" class="main-nav">
+    <a href="#/" class="nav-brand" id="nav-brand">
+      <svg class="nav-rune" viewBox="0 0 30 42" width="20" height="28">
+        <path d="M15 2 L15 40 M7 10 L23 10 M5 21 L25 21 M9 32 L21 32" 
+              fill="none" stroke="#c9a84c" stroke-width="1.5" stroke-linecap="round"/>
+      </svg>
+      <span>TMI</span>
+    </a>
+    <div class="nav-links">
+      <a href="#/" class="nav-link" id="nav-home">Library</a>
+      <a href="#/guide" class="nav-link" id="nav-guide">Guide</a>
+      <a href="#/map" class="nav-link" id="nav-map">Maps</a>
+    </div>
+    <div class="nav-actions">
+      <button id="witchlight-toggle" class="nav-btn witchlight-btn" title="Toggle Witchlight Mode">
+        <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2">
+          <circle cx="12" cy="12" r="5"/>
+          <path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/>
+        </svg>
+      </button>
+    </div>
+  </nav>
+
+  <!-- Main content area -->
+  <main id="app"></main>
+
+  <!-- Toast notifications -->
+  <div id="toast-container" class="toast-container"></div>
+
+</body>
+</html>
